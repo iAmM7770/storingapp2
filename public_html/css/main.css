@@ -357,3 +357,14 @@ label{
   }
 }
 
+
+tr:nth-child(odd){
+  background-color:lightgrey;
+}
+tr:hover {
+  background-color: red;
+}
+
+tr:first-child {
+  background-color: red;
+ }
